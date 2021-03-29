@@ -10,6 +10,7 @@ URL: "https://www.kaggle.com/pranavraikokte/covid19-image-dataset"
 ## Model
 
 We used a Sequential model with 1 hidden layer, and used Categorical Crossentropy to measure our loss.
+
 Model had ~5,000 parameters (in order to keep runtime low)
 
 ## Results
